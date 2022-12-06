@@ -69,3 +69,23 @@ int main() {
     show2DTab(tab2, collumn, row);
     return 0;
 }
+
+void create2T(int T[MaxElem][MaxElem], int ligne, int colonne){
+    int  numbers, count; 
+
+    printf("\nTableau 2T\n");
+
+    for (int i=0;i<ligne;i++){
+        printf("|");
+        if ((i%2==0) || (i==0)){
+            for (int j=0; j<colonne; j++){
+                numbers = T[i][j];
+                count = (numbers == 0)?1:log10(numbers)+1;
+                printf(" %d", numbers);
+                for (int k = count; k < 3; k++) printf(" ");
+             printf("|");
+            }
+            printf("\n");
+        }
+    }
+}
