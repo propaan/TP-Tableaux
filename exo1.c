@@ -31,7 +31,9 @@ void show2DTab(int T[MaxElem][MaxElem], int c, int r) {
     } 
 }
 
-void pair(int t[MaxElem][MaxElem], int t2[MaxElem][MaxElem], int c, int r) {
+int pairRow(int t[MaxElem][MaxElem], int t2[MaxElem][MaxElem], int c, int r) {
+
+    int nbRows = (r % 2 == 1)?((r/2) + 1):(r/2);
     
     int count, numbers, c2 = 0;
     for (int i = 0; i < r; i++) {
@@ -44,6 +46,22 @@ void pair(int t[MaxElem][MaxElem], int t2[MaxElem][MaxElem], int c, int r) {
         c2++;
         }
     }
+    return nbRows;
+}
+
+int impairCollumn(int t[MaxElem][MaxElem], int t2[MaxElem][MaxElem], int c, int r) {
+
+    int nbCollumns = (c % 2 == 0)?(c/2):((c/2) + 1);
+
+    for (int i = 0; i < r; i++) {
+        for (int j = 0; j < c; j++) {
+            if (j % 2 == 1) {
+                t2[i][j - (j/2) - 1] = t[i][j];
+            }
+        }
+    }
+
+    return nbCollumns;
 }
 
 int main() {
@@ -57,11 +75,17 @@ int main() {
     initTab(tab, c, r);
     show2DTab(tab, c, r);
 
-    printf("\n------------------------------------------------------------------------------\n\n");
+    printf("\n-------------------------------Récupérer les lignes d'indices paires -------------------------------\n\n");
 
-    pair(tab, tab2, c, r);
+    int nbROw = pairRow(tab, tab2, 10, 10);
 
-    int howManyLines = (r % 2 == 0)?(r/2):((r/2) + 1);
+    show2DTab(tab2, 10, nbROw);
 
-    show2DTab(tab2, r, howManyLines);
+
+    printf("\n-------------------------------Récupérer les colonnes d'indices impaires -------------------------------\n\n");
+
+
+    int nbCol = impairCollumn(tab, tab2, 10, 10);
+
+    show2DTab(tab2, nbCol, 10);
 }
