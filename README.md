@@ -22,6 +22,7 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
   <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040142490804234/Parametrage.png" width='60%'>
   </p>
 
+
 <p align="center">Le jeu</p>
 <div align="center">
   <div style="display: flex;">
@@ -29,6 +30,7 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
     <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040142750847016/4x4.png" width='45%' />
   </div>
 </div>
+
 
 <p align="center">Le score</p>
 <div align="center">
