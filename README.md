@@ -35,6 +35,10 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
   <div style="display: flex;">
     <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040124191060008/rouge.png" width='45%' style="vertical-align: top;" />
     <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040124413366323/vert.png" width='45%' />
+    <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040124627271731/aqua.png" width='45%' />
+    <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040124832788491/bleu.png" width='45%' />
+    <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040125059289149/Egalite.png" width='45%' />
+    <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040125348692000/jaune.png" width='45%' />
   </div>
 </div>
 
