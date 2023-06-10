@@ -19,7 +19,7 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
 
 Le paramètrage : 
 <p>
-[<img src="https://media.discordapp.net/attachments/1117022882296512534/1117032013417943050/image.png" width="60%">](https://media.discordapp.net/attachments/1048354870844989503/1117040142490804234/Parametrage.png)
+  <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040142490804234/Parametrage.png" width='60%'>
   </p>
 
 <div align="center">
