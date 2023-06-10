@@ -31,3 +31,8 @@ La victoire :
 <p>
 <img src="https://media.discordapp.net/attachments/1117022882296512534/1117032217760256010/image.png" width="60%">
 </p>
+
+L'égalité :
+<p>
+<img src="https://media.discordapp.net/attachments/1117022882296512534/1117032378729250897/image.png" width="60%">
+</p>
