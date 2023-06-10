@@ -15,7 +15,7 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
 - Loric Raphaël
 - Sahuc Aymeric
 
-## Utilisation
+## 🕹️ Utilisation
 
 Le paramètrage : 
 <p>
