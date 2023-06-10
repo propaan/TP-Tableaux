@@ -19,7 +19,9 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
 
 Le paramètrage : 
 
-![Paramètrage](https://media.discordapp.net/attachments/1117022882296512534/1117032013417943050/image.png =200x200)
+<p align='center' >
+  <img src="https://media.discordapp.net/attachments/1117022882296512534/1117032013417943050/image.png"> 
+  </p>
 
 
 
