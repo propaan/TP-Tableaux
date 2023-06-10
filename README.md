@@ -17,12 +17,12 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
 
 ## 🕹️ Utilisation
 
-<p align="center"> Le paramètrage </p>
+<p align="center">Le paramètrage</p>
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040142490804234/Parametrage.png" width='60%'>
   </p>
 
-<p align="center"> Le jeu </p>
+<p align="center">Le jeu</p>
 <div align="center">
   <div style="display: flex;">
     <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040142188810321/10x10.png" width='45%' style="vertical-align: top;" />
