@@ -23,8 +23,11 @@ Le paramètrage :
   </p>
 
 Le jeu :
+<p>
 <img src="https://media.discordapp.net/attachments/1117022882296512534/1117032116975308800/image.png" width="60%">
+  </p>
 
 La victoire :
+<p>
 <img src="https://media.discordapp.net/attachments/1117022882296512534/1117032217760256010/image.png" width="60%">
-
+</p>
