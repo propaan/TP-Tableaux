@@ -17,8 +17,9 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
 
 ## 🕹️ Utilisation
 
+
+<h2>Le paramétrage</h2>
 <p align="center">
-  Le paramètrage : 
   <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040142490804234/Parametrage.png" width='60%'>
   </p>
 
