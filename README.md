@@ -20,6 +20,8 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
 Le paramètrage : 
 
 <img src="https://media.discordapp.net/attachments/1117022882296512534/1117032013417943050/image.png" width="60%"> 
+Le jeu :
 
-
+[<img src="https://media.discordapp.net/attachments/1117022882296512534/1117032013417943050/image.png" width="60%"> 
+](https://media.discordapp.net/attachments/1117022882296512534/1117032116975308800/image.png?width=643&height=701)
 
