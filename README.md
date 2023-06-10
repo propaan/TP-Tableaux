@@ -34,7 +34,7 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
 <div align="center">
   <div style="display: flex;">
     <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040124191060008/rouge.png" width='45%' style="vertical-align: top;" />
-    <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040142750847016/4x4.png" width='45%' />
+    <img src="media.discordapp.net/attachments/1048354870844989503/1117040124413366323/vert.png" width='45%' />
   </div>
 </div>
 
