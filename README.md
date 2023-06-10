@@ -25,6 +25,6 @@ Le paramètrage :
 <div align="center">
   <div style="display: flex;">
     <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040142188810321/10x10.png" width='50%' style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <img src="https://media.discordapp.net/attachments/1048354870844989503/1117040142750847016/4x4.png" width='50%' />
   </div>
 </div>
