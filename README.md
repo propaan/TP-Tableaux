@@ -19,20 +19,12 @@ Ce **projet** a été créé par un groupe de **quatre étudiants** :
 
 Le paramètrage : 
 <p>
-<img src="https://media.discordapp.net/attachments/1117022882296512534/1117032013417943050/image.png" width="60%">
+[<img src="https://media.discordapp.net/attachments/1117022882296512534/1117032013417943050/image.png" width="60%">](https://media.discordapp.net/attachments/1048354870844989503/1117040142490804234/Parametrage.png)
   </p>
 
-Le jeu :
-<p>
-<img src="https://media.discordapp.net/attachments/1117022882296512534/1117032116975308800/image.png" width="60%">
-  </p>
-
-La victoire :
-<p>
-<img src="https://media.discordapp.net/attachments/1117022882296512534/1117032217760256010/image.png" width="60%">
-</p>
-
-L'égalité :
-<p>
-<img src="https://media.discordapp.net/attachments/1117022882296512534/1117032378729250897/image.png" width="60%">
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
